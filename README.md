@@ -60,7 +60,4 @@ Upload one or more PDF files using the sidebar, then enter your question in the 
 
 Contributions are welcome! Please create an issue or submit a pull request for any features, bug fixes, or enhancements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
